@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = 'Liệu em có còn cơ hội nào không ạ ?';
+    document.getElementById('messageContainer').innerHTML = 'Em hứa sẽ không tái phạm nửaa';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
@@ -261,4 +261,3 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
     }
 });
-
